@@ -130,15 +130,6 @@ python train.py
 * Transformer-based fusion
 * Re-ranking for improved mAP
 * Temporal modeling (sequence-based Re-ID)
-
----
-
-## 👤 Author
-
-Aditya Gupta
-B.Tech Engineering Student
-Interested in Computer Vision & Deep Learning
-
 ---
 
 ## ⭐ Acknowledgements
