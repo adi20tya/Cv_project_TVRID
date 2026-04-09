@@ -121,17 +121,6 @@ python train.py
 * Compute cosine similarity
 * Rank results
 
----
-
-## 📁 Project Structure
-
-```
-├── train.py
-├── model.py
-├── dataset.py
-├── inference.py
-├── README.md
-```
 
 ---
 
